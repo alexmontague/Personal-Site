@@ -1,0 +1,455 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Briefcase v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-03-13 23:28+0200\n"
+"PO-Revision-Date: 2012-03-14 13:21+0200\n"
+"Last-Translator: Creative Dreams <rockablethemes@gmail.com>\n"
+"Language-Team: Rockable Themes <rockablethemes@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: esc_html_e;esc_html__;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../archive.php:14
+#, php-format
+msgid "Daily Archives: <span>%s</span>"
+msgstr "Ежедневные архивы: %s"
+
+#: ../archive.php:16
+#, php-format
+msgid "Monthly Archives: <span>%s</span>"
+msgstr "Архив по месяцам: %s"
+
+#: ../archive.php:18
+#, php-format
+msgid "Yearly Archives: <span>%s</span>"
+msgstr "Ежегодные Архивы: %s"
+
+#: ../archive.php:20
+msgid "Category:"
+msgstr "Категория:"
+
+#: ../archive.php:23
+msgid "Blog Archives"
+msgstr "Архив блога"
+
+#: ../archive.php:43
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: ../archive.php:50
+msgid "By "
+msgstr ""
+
+#: ../archive.php:51
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../archive.php:53
+msgid "Published "
+msgstr "Опубликован"
+
+#: ../archive.php:55
+msgid "Edit"
+msgstr "Редактировать"
+
+#: ../archive.php:63
+msgid "Posted in "
+msgstr "Добавлено в "
+
+#: ../archive.php:65
+msgid "Tagged "
+msgstr ""
+
+#: ../archive.php:66
+#: ../template_blog.php:58
+msgid "Leave a comment"
+msgstr "Комментировать"
+
+#: ../archive.php:66
+#: ../template_blog.php:58
+msgid "1 Comment"
+msgstr "1 Комментарий"
+
+#: ../archive.php:66
+#: ../template_blog.php:58
+msgid "% Comments"
+msgstr "% Комментария"
+
+#: ../archive.php:82
+#: ../index.php:43
+#: ../search.php:54
+#: ../template_blog.php:90
+#: ../template_blog.php:105
+msgid "&laquo; Previous"
+msgstr "&laquo; Предыдущий"
+
+#: ../archive.php:83
+#: ../index.php:44
+#: ../search.php:55
+#: ../template_blog.php:91
+#: ../template_blog.php:106
+msgid "Next &raquo;"
+msgstr "Следующий &raquo;"
+
+#: ../comments.php:8
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../comments.php:24
+msgid "No Comments"
+msgstr "Комментариев нет"
+
+#: ../comments.php:24
+msgid "One Comment"
+msgstr "1 Комментарий"
+
+#: ../comments.php:24
+msgid "Comments (%)"
+msgstr "Комментария (%)"
+
+#: ../comments.php:35
+msgid "Trackbacks for this post"
+msgstr ""
+
+#: ../comments.php:58
+msgid "Comments are now closed for this article."
+msgstr "Комментарии в настоящее время закрыты для этой статьи."
+
+#: ../comments.php:68
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#: ../comments.php:90
+msgid "Add Comment"
+msgstr "Добавить комментарий"
+
+#: ../comments.php:90
+#, php-format
+msgid "Leave a Comment to %s"
+msgstr ""
+
+#: ../comments.php:94
+msgid "Click here to cancel reply"
+msgstr "Нажмите здесь, чтобы отменить ответ"
+
+#: ../comments.php:98
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a comment."
+msgstr ""
+
+#: ../comments.php:105
+#, php-format
+msgid "Logged in as %1$s. %2$sLog out &raquo;%3$s"
+msgstr "Вы вошли как %1$s. %2$sВыход &raquo;%3$s"
+
+#: ../comments.php:105
+msgid "Log out of this account"
+msgstr ""
+
+#: ../comments.php:111
+#: ../template_contacts.php:100
+msgid "Name"
+msgstr "Имя"
+
+#: ../comments.php:116
+#: ../template_contacts.php:109
+msgid "E-Mail"
+msgstr ""
+
+#: ../comments.php:121
+msgid "Website"
+msgstr "Сайт"
+
+#: ../comments.php:133
+msgid "Submit"
+msgstr "Отправить"
+
+#: ../footer.php:24
+msgid "&nbsp;latest works&nbsp;"
+msgstr "&nbsp;последние работы&nbsp;"
+
+#: ../footer.php:65
+msgid "Copyright &#169; 2012 Briefcase, Free Premium Theme. All Rights Reserved"
+msgstr ""
+
+#: ../functions.php:219
+msgid "MORE POSTS"
+msgstr ""
+
+#: ../functions.php:262
+msgid "This is the widget area for the Main Sidebar."
+msgstr ""
+
+#: ../functions.php:275
+msgid "This is the widget area for the Center Footer Sidebar."
+msgstr ""
+
+#: ../functions.php:288
+msgid "This is the widget area for the Right Footer Sidebar."
+msgstr ""
+
+#: ../page.php:29
+#: ../single-portfolio.php:42
+#: ../single.php:37
+msgid "Direct Link"
+msgstr ""
+
+#: ../search.php:10
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для: %s"
+
+#: ../search.php:29
+msgid "Published"
+msgstr "Опубликован"
+
+#: ../search.php:37
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: ../search.php:39
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Извините, но ничего не соответствуют критериям поиска. Пожалуйста, попробуйте еще ​​раз."
+
+#: ../single-portfolio.php:12
+#: ../single-portfolio.php:16
+#: ../single.php:14
+#: ../single.php:18
+msgid "%link"
+msgstr ""
+
+#: ../template_blog.php:68
+msgid "More"
+msgstr "Больше"
+
+#: ../template_contacts.php:75
+msgid "Thanks, your email was sent successfully."
+msgstr "Спасибо, Ваше сообщение было успешно отправлено."
+
+#: ../template_contacts.php:83
+msgid "Sorry, an error occured."
+msgstr "Извините, произошла ошибка."
+
+#: ../template_contacts.php:95
+msgid "Contact Us"
+msgstr "Контактировати"
+
+#: ../template_contacts.php:119
+msgid "Message"
+msgstr "Сообщение"
+
+#: ../template_contacts.php:130
+msgid "Send Email"
+msgstr "Отправка E-mail"
+
+#: ../template_portfolio.php:21
+msgid "All"
+msgstr ""
+
+#: ../admin/panel-interface copy.php:142
+#: ../admin/panel-interface.php:141
+msgid "Options Updated"
+msgstr ""
+
+#: ../admin/panel-interface copy.php:145
+#: ../admin/panel-interface.php:144
+msgid "Options Reseted"
+msgstr ""
+
+#: ../admin/panel-interface copy.php:159
+#: ../admin/panel-interface.php:158
+msgid "Theme Name:"
+msgstr ""
+
+#: ../admin/panel-interface copy.php:159
+#: ../admin/panel-interface.php:158
+msgid "Theme Version:"
+msgstr ""
+
+#: ../admin/panel-interface copy.php:173
+msgid "Good day"
+msgstr ""
+
+#: ../admin/panel-interface copy.php:189
+#: ../admin/panel-interface.php:188
+msgid "Support Forum"
+msgstr ""
+
+#: ../admin/panel-interface copy.php:194
+#: ../admin/panel-interface.php:193
+msgid "Theme Docs"
+msgstr ""
+
+#: ../admin/panel-interface copy.php:199
+#: ../admin/panel-interface.php:198
+msgid "View Changelog"
+msgstr ""
+
+#: ../admin/panel-interface copy.php:204
+#: ../admin/panel-interface.php:203
+msgid "Earn with us"
+msgstr ""
+
+#: ../admin/panel-interface copy.php:238
+#: ../admin/panel-interface.php:237
+msgid "Procesing"
+msgstr ""
+
+#: ../functions/theme-functions.php:25
+msgid "Rockable Themes"
+msgstr ""
+
+#: ../functions/theme-functions.php:29
+msgid "Theme Options"
+msgstr ""
+
+#: ../functions/theme-functions.php:156
+msgid "Page"
+msgstr ""
+
+#: ../functions/theme-functions.php:176
+#, php-format
+msgid "View all items filed under %s"
+msgstr ""
+
+#: ../functions/theme-functions.php:192
+#, php-format
+msgid "Feed for all posts filed under %s"
+msgstr ""
+
+#: ../functions/theme-functions.php:336
+msgid "Thumbnail"
+msgstr ""
+
+#: ../functions/theme-functions.php:357
+msgid "None"
+msgstr ""
+
+#: ../functions/theme-posttypes.php:7
+#: ../functions/theme-posttypes.php:8
+msgid "Portfolio"
+msgstr ""
+
+#: ../functions/theme-posttypes.php:10
+msgid "Add New Item"
+msgstr ""
+
+#: ../functions/theme-posttypes.php:11
+msgid "Edit Item"
+msgstr ""
+
+#: ../functions/theme-posttypes.php:12
+msgid "New Item"
+msgstr ""
+
+#: ../functions/theme-posttypes.php:13
+msgid "View Item"
+msgstr ""
+
+#: ../functions/theme-posttypes.php:14
+msgid "Search Items"
+msgstr ""
+
+#: ../functions/theme-posttypes.php:15
+msgid "No Item found"
+msgstr ""
+
+#: ../functions/theme-posttypes.php:16
+msgid "No Item found in Trash"
+msgstr ""
+
+#: ../functions/theme-posttypes.php:25
+msgid "portfolio-items"
+msgstr ""
+
+#: ../functions/theme-posttypes.php:34
+#: ../functions/theme-posttypes.php:39
+msgid "portfolio"
+msgstr ""
+
+#: ../functions/theme-posttypes.php:39
+#: ../functions/theme-posttypes.php:57
+msgid "portfolio-categories"
+msgstr ""
+
+#: ../functions/theme-posttypes.php:39
+msgid "Categories"
+msgstr ""
+
+#: ../functions/theme-posttypes.php:46
+msgid "Portfolio Items Title"
+msgstr ""
+
+#: ../functions/theme-posttypes.php:47
+msgid "Type"
+msgstr ""
+
+#: ../functions/theme-posttypes.php:56
+msgid "type"
+msgstr ""
+
+#: ../functions/theme-widgets.php:19
+msgid "ROCKABLE : Twitter Stream"
+msgstr ""
+
+#: ../functions/theme-widgets.php:55
+msgid "Title (optional):"
+msgstr ""
+
+#: ../functions/theme-widgets.php:59
+msgid "Username:"
+msgstr ""
+
+#: ../functions/theme-widgets.php:63
+msgid "Limit:"
+msgstr ""
+
+#: ../functions/theme-widgets.php:134
+msgid "ROCKABLE : Popular Posts"
+msgstr ""
+
+#: ../functions/theme-widgets.php:195
+msgid "ROCKABLE : Search Widget"
+msgstr ""
+
+#: ../functions/shortcodes/window_post.php:74
+msgid "You are not allowed to be here"
+msgstr ""
+
+#: ../includes/comments-content.php:20
+msgid "(Edit Comment)"
+msgstr "(Редактировать)"
+
+#: ../includes/comments-content.php:27
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает модерации."
+
+#: ../includes/comments-content.php:33
+msgid "Reply"
+msgstr "Ответить"
+
+#: ../includes/panel.php:6
+msgid "About Me"
+msgstr "О себе"
+
+#: ../includes/panel.php:10
+msgid "more"
+msgstr "Больше"
+
+#: ../includes/panel.php:16
+msgid "Latest Works"
+msgstr "Последние работы"
+
+#: ../includes/panel.php:23
+msgid "Contact"
+msgstr "Контактировати"
+

@@ -1,0 +1,1032 @@
+/*******************************Button Shortcode Styles*****************************************/
+a.button_rt span small#first_small{
+    line-height: 1.2em;
+    min-height: 16px;
+}
+
+a.button_rt.button_size_normal span small.ico-tick{
+    background:url(../functions/shortcodes/images/ico-tick.png) no-repeat;
+	margin:4px 5px 0 0;
+	float:left;
+	width:16px;
+	height:16px;
+}
+
+a.button_rt.button_size_normal span small.ico-alert{
+    background:url(../functions/shortcodes/images/ico-alert.png) no-repeat;
+	margin:4px 5px 0 0;
+	float:left;
+	width:16px;
+	height:16px;
+}
+
+a.button_rt.button_size_normal span small.ico-download{
+    background:url(../functions/shortcodes/images/ico-download.png) no-repeat;
+	margin:4px 5px 0 0;
+	float:left;
+	width:16px;
+	height:16px;
+}
+
+a.button_rt.button_size_normal span small.ico-info{
+    background:url(../functions/shortcodes/images/ico-info.png) no-repeat;
+	margin:4px 5px 0 0;
+	float:left;
+	width:16px;
+	height:16px;
+}
+
+a.button_rt.button_size_normal span small.ico-note{
+   background:url(../functions/shortcodes/images/ico-note.png) no-repeat;
+	margin:4px 5px 0 0;
+	float:left;
+	width:16px;
+	height:16px;
+}
+
+a.button_rt.button_size_normal span small.ico-star{
+   background:url(../functions/shortcodes/images/ico-star.png) no-repeat;
+	margin:4px 5px 0 0;
+	float:left;
+	width:16px;
+	height:16px;
+}
+
+a.button_rt.button_size_normal span small.ico-heart{
+   background:url(../functions/shortcodes/images/ico-heart.png) no-repeat;
+	margin:4px 5px 0 0;
+	float:left;
+	width:16px;
+	height:16px;
+}
+
+a.button_rt.button_size_normal span small.ico-search{
+   background:url(../functions/shortcodes/images/ico-search.png) no-repeat;
+	margin:4px 5px 0 0;
+	float:left;
+	width:16px;
+	height:16px;
+}
+
+a.button_rt.button_size_small span small.ico-tick{
+    background:url(../functions/shortcodes/images/ico-tick.png) no-repeat;
+	margin:0 5px 0 0;
+	float:left;
+	width:16px;
+	height:16px;
+}
+
+a.button_rt.button_size_small span small.ico-alert{
+    background:url(../functions/shortcodes/images/ico-alert.png) no-repeat;
+	margin:0 5px 0 0;
+	float:left;
+	width:16px;
+	height:16px;
+}
+
+a.button_rt.button_size_small span small.ico-download{
+    background:url(../functions/shortcodes/images/ico-download.png) no-repeat;
+	margin:0 5px 0 0;
+	float:left;
+	width:16px;
+	height:16px;
+}
+
+a.button_rt.button_size_small span small.ico-info{
+    background:url(../functions/shortcodes/images/ico-info.png) no-repeat;
+	margin:0 5px 0 0;
+	float:left;
+	width:16px;
+	height:16px;
+}
+
+a.button_rt.button_size_small span small.ico-note{
+   background:url(../functions/shortcodes/images/ico-note.png) no-repeat;
+	margin:0 5px 0 0;
+	float:left;
+	width:16px;
+	height:16px;
+}
+
+a.button_rt.button_size_small span small.ico-star{
+   background:url(../functions/shortcodes/images/ico-star.png) no-repeat;
+	margin:0 5px 0 0;
+	float:left;
+	width:16px;
+	height:16px;
+}
+
+a.button_rt.button_size_small span small.ico-heart{
+   background:url(../functions/shortcodes/images/ico-heart.png) no-repeat;
+	margin:0 5px 0 0;
+	float:left;
+	width:16px;
+	height:16px;
+}
+
+a.button_rt.button_size_small span small.ico-search{
+   background:url(../functions/shortcodes/images/ico-search.png) no-repeat;
+	margin:0 5px 0 0;
+	float:left;
+	width:16px;
+	height:16px;
+}
+
+a.button_rt.button_size_big span small.ico-tick{
+    background:url(../functions/shortcodes/images/ico-tick.png) no-repeat;
+	margin:8px 5px 0 0;
+	float:left;
+	width:16px;
+	height:16px;
+}
+
+a.button_rt.button_size_big span small.ico-alert{
+    background:url(../functions/shortcodes/images/ico-alert.png) no-repeat;
+	margin:8px 5px 0 0;
+	float:left;
+	width:16px;
+	height:16px;
+}
+
+a.button_rt.button_size_big span small.ico-download{
+    background:url(../functions/shortcodes/images/ico-download.png) no-repeat;
+	margin:8px 5px 0 0;
+	float:left;
+	width:16px;
+	height:16px;
+}
+
+a.button_rt.button_size_big span small.ico-info{
+    background:url(../functions/shortcodes/images/ico-info.png) no-repeat;
+	margin:8px 5px 0 0;
+	float:left;
+	width:16px;
+	height:16px;
+}
+
+a.button_rt.button_size_big span small.ico-note{
+   background:url(../functions/shortcodes/images/ico-note.png) no-repeat;
+	margin:8px 5px 0 0;
+	float:left;
+	width:16px;
+	height:16px;
+}
+
+a.button_rt.button_size_big span small.ico-star{
+   background:url(../functions/shortcodes/images/ico-star.png) no-repeat;
+	margin:8px 5px 0 0;
+	float:left;
+	width:16px;
+	height:16px;
+}
+
+a.button_rt.button_size_big span small.ico-heart{
+   background:url(../functions/shortcodes/images/ico-heart.png) no-repeat;
+	margin:8px 5px 0 0;
+	float:left;
+	width:16px;
+	height:16px;
+}
+
+a.button_rt.button_size_big span small.ico-search{
+   background:url(../functions/shortcodes/images/ico-search.png) no-repeat;
+	margin:8px 5px 0 0;
+	float:left;
+	width:16px;
+	height:16px;
+}
+
+#button_id {
+	text-align: center;
+}
+
+#button_id a{
+	cursor: pointer;
+}
+
+#button_id a.button_link_blue.button_size_normal span {
+	background: url(../functions/shortcodes/images/button_blue_span.png) no-repeat;
+	display: block;
+	height:34px;
+	line-height: 22px;
+	padding: 5px 0 5px 18px;
+}
+
+#button_id a.button_link_blue.button_size_normal {
+    background:url(../functions/shortcodes/images/button_blue_a.png) no-repeat scroll top right;
+	display: inline-block;
+	height:34px;
+	margin: 6px auto;
+	padding-right: 19px;
+	text-decoration:none;
+	color:#fff;
+}
+
+#button_id a:hover.button_link_blue.button_size_normal{
+    background:url(../functions/shortcodes/images/button_blue_a_hover.png) no-repeat scroll top right;
+}
+
+#button_id a:hover.button_link_blue.button_size_normal span{
+    background:url(../functions/shortcodes/images/button_blue_span_hover.png) no-repeat;
+}
+
+#button_id a.button_link_green.button_size_normal span {
+	background: url(../functions/shortcodes/images/button_green_span.png) no-repeat;
+	display: block;
+	height:34px;
+	line-height: 22px;
+	padding: 5px 0 5px 18px;
+}
+
+#button_id a.button_link_green.button_size_normal {
+    background:url(../functions/shortcodes/images/button_green_a.png) no-repeat scroll top right;
+	display: inline-block;
+	height:34px;
+	margin: 6px auto;
+	padding-right: 19px;
+	text-decoration:none;
+	color:#fff;
+}
+
+#button_id a:hover.button_link_green.button_size_normal{
+    background:url(../functions/shortcodes/images/button_green_a_hover.png) no-repeat scroll top right;
+}
+
+#button_id a:hover.button_link_green.button_size_normal span{
+    background:url(../functions/shortcodes/images/button_green_span_hover.png) no-repeat;
+}
+
+#button_id a.button_link_orange.button_size_normal span {
+	background: url(../functions/shortcodes/images/button_orange_span.png) no-repeat;
+	display: block;
+	height:34px;
+	line-height: 22px;
+	padding: 5px 0 5px 18px;
+}
+
+#button_id a.button_link_orange.button_size_normal {
+    background:url(../functions/shortcodes/images/button_orange_a.png) no-repeat scroll top right;
+	display: inline-block;
+	height:34px;
+	margin: 6px auto;
+	padding-right: 19px;
+	text-decoration:none;
+	color:#fff;
+}
+
+#button_id a:hover.button_link_orange.button_size_normal{
+    background:url(../functions/shortcodes/images/button_orange_a_hover.png) no-repeat scroll top right;
+}
+
+#button_id a:hover.button_link_orange.button_size_normal span{
+    background:url(../functions/shortcodes/images/button_orange_span_hover.png) no-repeat;
+}
+
+#button_id a.button_link_black.button_size_normal span {
+	background: url(../functions/shortcodes/images/button_black_span.png) no-repeat;
+	display: block;
+	height:34px;
+	line-height: 22px;
+	padding: 5px 0 5px 18px;
+}
+
+#button_id a.button_link_black.button_size_normal {
+    background:url(../functions/shortcodes/images/button_black_a.png) no-repeat scroll top right;
+	display: inline-block;
+	height:34px;
+	margin: 6px auto;
+	padding-right: 19px;
+	text-decoration:none;
+	color:#fff;
+}
+
+#button_id a:hover.button_link_black.button_size_normal{
+    background:url(../functions/shortcodes/images/button_black_a_hover.png) no-repeat scroll top right;
+}
+
+#button_id a:hover.button_link_black.button_size_normal span{
+    background:url(../functions/shortcodes/images/button_black_span_hover.png) no-repeat;
+}
+
+#button_id a.button_link_red.button_size_normal span {
+	background: url(../functions/shortcodes/images/button_red_span.png) no-repeat;
+	display: block;
+	height:34px;
+	line-height: 22px;
+	padding: 5px 0 5px 18px;
+}
+
+#button_id a.button_link_red.button_size_normal {
+    background:url(../functions/shortcodes/images/button_red_a.png) no-repeat scroll top right;
+	display: inline-block;
+	height:34px;
+	margin: 6px auto;
+	padding-right: 19px;
+	text-decoration:none;
+	color:#fff;
+}
+
+#button_id a:hover.button_link_red.button_size_normal{
+    background:url(../functions/shortcodes/images/button_red_a_hover.png) no-repeat scroll top right;
+}
+
+#button_id a:hover.button_link_red.button_size_normal span{
+    background:url(../functions/shortcodes/images/button_red_span_hover.png) no-repeat;
+}
+
+#button_id a.button_link_yellow.button_size_normal span {
+	background: url(../functions/shortcodes/images/button_yellow_span.png) no-repeat;
+	display: block;
+	height:34px;
+	line-height: 22px;
+	padding: 5px 0 5px 18px;
+}
+
+#button_id a.button_link_yellow.button_size_normal {
+    background:url(../functions/shortcodes/images/button_yellow_a.png) no-repeat scroll top right;
+	display: inline-block;
+	height:34px;
+	margin: 6px auto;
+	padding-right: 19px;
+	text-decoration:none;
+	color:#fff;
+}
+
+#button_id a:hover.button_link_yellow.button_size_normal{
+    background:url(../functions/shortcodes/images/button_yellow_a_hover.png) no-repeat scroll top right;
+}
+
+#button_id a:hover.button_link_yellow.button_size_normal span{
+    background:url(../functions/shortcodes/images/button_yellow_span_hover.png) no-repeat;
+}
+
+
+#button_id a.button_link_blue.button_size_small span {
+	background: url(../functions/shortcodes/images/button_blue_small_span.png) no-repeat;
+	display: block;
+	height:28px;
+	line-height: 16px;
+	padding: 5px 0 5px 18px;
+}
+
+#button_id a.button_link_blue.button_size_small {
+    background:url(../functions/shortcodes/images/button_blue_small_a.png) no-repeat scroll top right;
+	display: inline-block;
+	height:28px;
+	margin: 6px auto;
+	padding-right: 19px;
+	text-decoration:none;
+	color:#fff;
+}
+
+#button_id a:hover.button_link_blue.button_size_small{
+    background:url(../functions/shortcodes/images/button_blue_small_a_hover.png) no-repeat scroll top right;
+}
+
+#button_id a:hover.button_link_blue.button_size_small span{
+    background:url(../functions/shortcodes/images/button_blue_small_span_hover.png) no-repeat;
+}
+
+#button_id a.button_link_green.button_size_small span {
+	background: url(../functions/shortcodes/images/button_green_small_span.png) no-repeat;
+	display: block;
+	height:28px;
+	line-height: 16px;
+	padding: 5px 0 5px 18px;
+}
+
+#button_id a.button_link_green.button_size_small {
+    background:url(../functions/shortcodes/images/button_green_small_a.png) no-repeat scroll top right;
+	display: inline-block;
+	height:28px;
+	margin: 6px auto;
+	padding-right: 19px;
+	text-decoration:none;
+	color:#fff;
+}
+
+#button_id a:hover.button_link_green.button_size_small{
+    background:url(../functions/shortcodes/images/button_green_small_a_hover.png) no-repeat scroll top right;
+}
+
+#button_id a:hover.button_link_green.button_size_small span{
+    background:url(../functions/shortcodes/images/button_green_small_span_hover.png) no-repeat;
+}
+
+#button_id a.button_link_orange.button_size_small span {
+	background: url(../functions/shortcodes/images/button_orange_small_span.png) no-repeat;
+	display: block;
+	height:28px;
+	line-height: 16px;
+	padding: 5px 0 5px 18px;
+}
+
+#button_id a.button_link_orange.button_size_small {
+    background:url(../functions/shortcodes/images/button_orange_small_a.png) no-repeat scroll top right;
+	display: inline-block;
+	height:28px;
+	margin: 6px auto;
+	padding-right: 19px;
+	text-decoration:none;
+	color:#fff;
+}
+
+#button_id a:hover.button_link_orange.button_size_small{
+    background:url(../functions/shortcodes/images/button_orange_small_a_hover.png) no-repeat scroll top right;
+}
+
+#button_id a:hover.button_link_orange.button_size_small span{
+    background:url(../functions/shortcodes/images/button_orange_small_span_hover.png) no-repeat;
+}
+
+#button_id a.button_link_red.button_size_small span {
+	background: url(../functions/shortcodes/images/button_red_small_span.png) no-repeat;
+	display: block;
+	height:28px;
+	line-height: 16px;
+	padding: 5px 0 5px 18px;
+}
+
+#button_id a.button_link_red.button_size_small {
+    background:url(../functions/shortcodes/images/button_red_small_a.png) no-repeat scroll top right;
+	display: inline-block;
+	height:28px;
+	margin: 6px auto;
+	padding-right: 19px;
+	text-decoration:none;
+	color:#fff;
+}
+
+#button_id a:hover.button_link_red.button_size_small{
+    background:url(../functions/shortcodes/images/button_red_small_a_hover.png) no-repeat scroll top right;
+}
+
+#button_id a:hover.button_link_red.button_size_small span{
+    background:url(../functions/shortcodes/images/button_red_small_span_hover.png) no-repeat;
+}
+
+#button_id a.button_link_black.button_size_small span {
+	background: url(../functions/shortcodes/images/button_black_small_span.png) no-repeat;
+	display: block;
+	height:28px;
+	line-height: 16px;
+	padding: 5px 0 5px 18px;
+}
+
+#button_id a.button_link_black.button_size_small {
+    background:url(../functions/shortcodes/images/button_black_small_a.png) no-repeat scroll top right;
+	display: inline-block;
+	height:28px;
+	margin: 6px auto;
+	padding-right: 19px;
+	text-decoration:none;
+	color:#fff;
+}
+
+#button_id a:hover.button_link_black.button_size_small{
+    background:url(../functions/shortcodes/images/button_black_small_a_hover.png) no-repeat scroll top right;
+}
+
+#button_id a:hover.button_link_black.button_size_small span{
+    background:url(../functions/shortcodes/images/button_black_small_span_hover.png) no-repeat;
+}
+
+#button_id a.button_link_yellow.button_size_small span {
+	background: url(../functions/shortcodes/images/button_yellow_small_span.png) no-repeat;
+	display: block;
+	height:28px;
+	line-height: 16px;
+	padding: 5px 0 5px 18px;
+}
+
+#button_id a.button_link_yellow.button_size_small {
+    background:url(../functions/shortcodes/images/button_yellow_small_a.png) no-repeat scroll top right;
+	display: inline-block;
+	height:28px;
+	margin: 6px auto;
+	padding-right: 19px;
+	text-decoration:none;
+	color:#fff;
+}
+
+#button_id a:hover.button_link_yellow.button_size_small{
+    background:url(../functions/shortcodes/images/button_yellow_small_a_hover.png) no-repeat scroll top right;
+}
+
+#button_id a:hover.button_link_yellow.button_size_small span{
+    background:url(../functions/shortcodes/images/button_yellow_small_span_hover.png) no-repeat;
+}
+
+#button_id a.button_link_blue.button_size_big span {
+	background: url(../functions/shortcodes/images/button_blue_big_span.png) no-repeat;
+	display: block;
+	height:42px;
+	line-height: 30px;
+	padding: 5px 0 5px 25px;
+}
+
+#button_id a.button_link_blue.button_size_big {
+    background:url(../functions/shortcodes/images/button_blue_big_a.png) no-repeat scroll top right;
+	display: inline-block;
+	height:42px;
+	margin: 6px auto;
+	padding-right: 25px;
+	text-decoration:none;
+	color:#fff;
+}
+
+#button_id a:hover.button_link_blue.button_size_big{
+    background:url(../functions/shortcodes/images/button_blue_big_a_hover.png) no-repeat scroll top right;
+}
+
+#button_id a:hover.button_link_blue.button_size_big span{
+    background:url(../functions/shortcodes/images/button_blue_big_span_hover.png) no-repeat;
+}
+
+#button_id a.button_link_green.button_size_big span {
+	background: url(../functions/shortcodes/images/button_green_big_span.png) no-repeat;
+	display: block;
+	height:42px;
+	line-height: 30px;
+	padding: 5px 0 5px 25px;
+}
+
+#button_id a.button_link_green.button_size_big {
+    background:url(../functions/shortcodes/images/button_green_big_a.png) no-repeat scroll top right;
+	display: inline-block;
+	height:42px;
+	margin: 6px auto;
+	padding-right: 25px;
+	text-decoration:none;
+	color:#fff;
+}
+
+#button_id a:hover.button_link_green.button_size_big{
+    background:url(../functions/shortcodes/images/button_green_big_a_hover.png) no-repeat scroll top right;
+}
+
+#button_id a:hover.button_link_green.button_size_big span{
+    background:url(../functions/shortcodes/images/button_green_big_span_hover.png) no-repeat;
+}
+
+#button_id a.button_link_orange.button_size_big span {
+	background: url(../functions/shortcodes/images/button_orange_big_span.png) no-repeat;
+	display: block;
+	height:42px;
+	line-height: 30px;
+	padding: 5px 0 5px 25px;
+}
+
+#button_id a.button_link_orange.button_size_big {
+    background:url(../functions/shortcodes/images/button_orange_big_a.png) no-repeat scroll top right;
+	display: inline-block;
+	height:42px;
+	margin: 6px auto;
+	padding-right: 25px;
+	text-decoration:none;
+	color:#fff;
+}
+
+#button_id a:hover.button_link_orange.button_size_big{
+    background:url(../functions/shortcodes/images/button_orange_big_a_hover.png) no-repeat scroll top right;
+}
+
+#button_id a:hover.button_link_orange.button_size_big span{
+    background:url(../functions/shortcodes/images/button_orange_big_span_hover.png) no-repeat;
+}
+
+#button_id a.button_link_red.button_size_big span {
+	background: url(../functions/shortcodes/images/button_red_big_span.png) no-repeat;
+	display: block;
+	height:42px;
+	line-height: 30px;
+	padding: 5px 0 5px 25px;
+}
+
+#button_id a.button_link_red.button_size_big {
+    background:url(../functions/shortcodes/images/button_red_big_a.png) no-repeat scroll top right;
+	display: inline-block;
+	height:42px;
+	margin: 6px auto;
+	padding-right: 25px;
+	text-decoration:none;
+	color:#fff;
+}
+
+#button_id a:hover.button_link_red.button_size_big{
+    background:url(../functions/shortcodes/images/button_red_big_a_hover.png) no-repeat scroll top right;
+}
+
+#button_id a:hover.button_link_red.button_size_big span{
+    background:url(../functions/shortcodes/images/button_red_big_span_hover.png) no-repeat;
+}
+
+#button_id a.button_link_black.button_size_big span {
+	background: url(../functions/shortcodes/images/button_black_big_span.png) no-repeat;
+	display: block;
+	height:42px;
+	line-height: 30px;
+	padding: 5px 0 5px 25px;
+}
+
+#button_id a.button_link_black.button_size_big {
+    background:url(../functions/shortcodes/images/button_black_big_a.png) no-repeat scroll top right;
+	display: inline-block;
+	height:42px;
+	margin: 6px auto;
+	padding-right: 25px;
+	text-decoration:none;
+	color:#fff;
+}
+
+#button_id a:hover.button_link_black.button_size_big{
+    background:url(../functions/shortcodes/images/button_black_big_a_hover.png) no-repeat scroll top right;
+}
+
+#button_id a:hover.button_link_black.button_size_big span{
+    background:url(../functions/shortcodes/images/button_black_big_span_hover.png) no-repeat;
+}
+
+#button_id a.button_link_yellow.button_size_big span {
+	background: url(../functions/shortcodes/images/button_yellow_big_span.png) no-repeat;
+	display: block;
+	height:42px;
+	line-height: 30px;
+	padding: 5px 0 5px 25px;
+}
+
+#button_id a.button_link_yellow.button_size_big {
+    background:url(../functions/shortcodes/images/button_yellow_big_a.png) no-repeat scroll top right;
+	display: inline-block;
+	height:42px;
+	margin: 6px auto;
+	padding-right: 25px;
+	text-decoration:none;
+	color:#fff;
+}
+
+#button_id a:hover.button_link_yellow.button_size_big{
+    background:url(../functions/shortcodes/images/button_yellow_big_a_hover.png) no-repeat scroll top right;
+}
+
+#button_id a:hover.button_link_yellow.button_size_big span{
+    background:url(../functions/shortcodes/images/button_yellow_big_span_hover.png) no-repeat;
+}
+/*******************************InfoBox Shortcode Styles*****************************************/
+
+.infoBox_rt div{
+    min-height: 16px;
+}
+
+.infoBox_rt div.ico-tick{
+    background: url(../functions/shortcodes/images/ico-tick.png) no-repeat 5px 45%;
+    padding-left: 25px;
+}
+
+.infoBox_rt div.ico-alert{
+    background: url(../functions/shortcodes/images/ico-alert.png) no-repeat 5px 45%;
+    padding-left: 25px;
+}
+
+.infoBox_rt div.ico-download{
+    background: url(../functions/shortcodes/images/ico-download.png) no-repeat 5px 45%;
+    padding-left: 25px;
+}
+
+.infoBox_rt div.ico-info{
+    background: url(../functions/shortcodes/images/ico-info.png) no-repeat 5px 45%;
+    padding-left: 25px;
+}
+
+.infoBox_rt div.ico-note{
+    background: url(../functions/shortcodes/images/ico-note.png) no-repeat 5px 45%;
+    padding-left: 25px;
+}
+
+.infoBox_rt div.ico-star{
+    background: url(../functions/shortcodes/images/ico-star.png) no-repeat 5px 45%;
+    padding-left: 25px;
+}
+
+.infoBox_rt div.ico-heart{
+    background: url(../functions/shortcodes/images/ico-heart.png) no-repeat 5px 45%;
+    padding-left: 25px;
+}
+
+.infoBox_rt div.ico-search{
+    background: url(../functions/shortcodes/images/ico-search.png) no-repeat 5px 45%;
+    padding-left: 25px;
+}
+
+.infoBox_color_red{
+    background-color: #fe4a4a;
+	border-top:1px solid #c63232;
+	border-bottom:1px solid #c63232;
+}
+.infoBox_color_blue{
+    background-color: #35c6e0;
+	border-top:1px solid #1592a8;
+	border-bottom:1px solid #1592a8;
+}
+
+.infoBox_color_green{
+    background-color: #84c644;
+	border-top:1px solid #59961d;
+	border-bottom:1px solid #59961d;
+}
+.infoBox_color_orange{
+    background-color: #ef9342;
+	border-top:1px solid #df591e;
+	border-bottom:1px solid #df591e;
+}
+
+.infoBox_color_yellow{
+    background-color: #fbec9c;
+	border-top:1px solid #e2bf56;
+	border-bottom:1px solid #e2bf56;
+}
+
+.infoBox_color_gray{
+    background-color:#e3e1e1;
+	border-top:1px solid #c6c5c5;
+	border-bottom:1px solid #c6c5c5;
+}
+
+.infoBox_color_brown{
+    background-color:#c1a27a;
+	border-top:1px solid #906e42;
+	border-bottom:1px solid #906e42;
+}
+
+.infoBox_rt{
+   padding: 10px 0px 10px 0px;
+   margin:10px 0;
+}
+
+.infoBox_text{
+    padding-left: 10px;
+    padding-right: 10px;
+	color: #333;
+}
+
+/*******************************Column Shortcode Styles*****************************************/
+
+#col_button{
+    background-color: #cccccc;
+    height: 20px;
+    width: 45px;
+    cursor: pointer;
+}
+
+#col_button:hover{
+    border: 1px solid #000000;
+}
+
+#column {
+	margin-bottom:17px;
+}
+
+#reset_columns{
+	background:url(../functions/shortcodes/images/reset2.png) no-repeat; 
+	border:none;
+    display: inline-block;
+    font-size: 10px;
+    float: right;
+    font-weight: normal;
+    height: 16px;
+    margin-top: 10px;
+	padding:0 0 0 15px;
+	cursor:pointer;
+}
+
+.one_half{ width:48%; }
+.one_third{ width:30.66%; }
+.two_third{ width:65.33%; }
+.one_fourth{ width:22%; }
+.two_fourth{ width:46%; }
+.three_fourth{ width:74%; }
+.one_fifth{ width:16.8%; }
+.two_fifth{ width:37.6%; }
+.three_fifth{ width:58.4%; }
+.four_fifth{ width:67.2%; }
+.one_sixth{ width:13.33%; }
+.two_sixth{ width:30.66%; }
+.three_sixth{ width:48%; }
+.four_sixth{ width:65.34%; }
+.five_sixth{ width:82.67%; }
+.one_half,.one_third,.two_third,.three_fourth,.one_fourth,.two_fourth,.one_fifth,.two_fifth,.three_fifth,.four_fifth,.one_sixth,.two_sixth,.three_sixth,.four_sixth,.five_sixth{ position:relative; margin-right:4%; float:left; }
+.last{ margin-right:0 !important; clear:right; }
+.clearboth {clear:both;display:block;font-size:0;height:0;line-height:0;width:100%;}
+
+/*******************************Tab Shortcode Styles*****************************************/
+
+.tabs-sel li {
+	list-style-type: none !important; 
+	float: left;
+	margin:20px 0 -8px 0 !important;
+	padding:5px 9px 0 9px;  
+	background-color:#f6f6f6;
+}
+
+.tabs-sel li a {
+	color:#666 !important;
+}
+
+.tabs-sel li a:hover {
+	color:#808D22 !important;
+	text-decoration:none !important;
+}
+
+.tabs-sel li.active a {
+	color:#000 !important;
+}
+
+.tabs-sel li.active {
+	background-color:#f1f1f1;
+	border-top:3px solid #e6e6e6;
+	border-bottom:none !important;
+	padding:2px 9px 3px 9px !important;
+}
+
+.tab-div {
+	margin:0 0 20px 0;
+	padding:15px 7px 10px 7px;
+	background-color:#f1f1f1;
+	border-top:3px solid #e6e6e6;
+	border-bottom:3px solid #e6e6e6;
+}
+
+/*******************************Toggle Content Shortcode Styles*****************************************/
+.slidetoggle_show {
+    background:url(../functions/shortcodes/images/show.png) no-repeat 98%; 
+}
+
+.slidetoggle_hide {
+    background:url(../functions/shortcodes/images/hide.png) no-repeat 98%; 
+}
+
+#toggle_shortcode {
+    margin: 10px 0 10px 0;
+}
+
+.toggle-content {
+	overflow:hidden;
+    padding:0 8px 10px 8px;
+}
+
+.toggle-content .block {
+	margin:10px 0 0 0;
+	color:#333;
+}
+
+#toggle_preview #toggle_shortcode {
+	padding:0 !important;
+	margin:0 !important;
+}
+
+#toggle_preview #toggle_shortcode h2 {
+	padding:10px 0 10px 8px !important;
+}
+
+#toggle_shortcode h2 {
+	padding:8px 0 8px 10px;
+	margin:0 !important;
+	cursor: pointer;
+}
+
+#toggle_shortcode h2 a {
+	text-decoration:none;
+	font-size:10px;
+}
+
+#toggle_shortcode a:hover {
+	text-decoration:none !important;
+	color:#333 !important;
+}
+
+.toggle_color_blue{
+	background-color: #35c6e0;
+	border-top:1px solid #1592a8;
+	border-bottom:1px solid #1592a8;
+}
+
+.toggle_color_yellow{
+    background-color: #fbec9c;
+	border-top:1px solid #e2bf56;
+	border-bottom:1px solid #e2bf56;
+}
+
+.toggle_color_red{
+    background-color: #fe4a4a;
+	border-top:1px solid #c63232;
+	border-bottom:1px solid #c63232;
+}
+
+.toggle_color_green{
+    background-color: #84c644;
+	border-top:1px solid #59961d;
+	border-bottom:1px solid #59961d;
+}
+.toggle_color_orange{
+    background-color: #ef9342;
+	border-top:1px solid #df591e;
+	border-bottom:1px solid #df591e;
+}
+
+.toggle_color_gray{
+    background-color:#e3e1e1;
+	border-top:1px solid #c6c5c5;
+	border-bottom:1px solid #c6c5c5;
+}
+
+.toggle_color_brown{
+    background-color:#c1a27a;
+	border-top:1px solid #906e42;
+	border-bottom:1px solid #906e42;
+}
+
+.toggle_color_nocolor{
+    background-color: transparent;
+	border:1px dashed #e8e8e8;
+}
+
+.toggle_color_nocolor h2 {
+	background-color:#f6f6f6;
+}
+
+/*** toggle resets ***/
+.single-container #toggle_shortcode .toggle-content {
+	max-width:97.8% !important;
+}
+
+.single-container .one_half #toggle_shortcode .toggle-content {
+	max-width:270px !important;
+}
+
+.single-container .one_third #toggle_shortcode .toggle-content {
+	max-width:170px !important;
+}
+
+.single-container .one_fourth #toggle_shortcode .toggle-content {
+	max-width:116px !important;
+}
+
+.single-container .one_fifth #toggle_shortcode .toggle-content {
+	max-width:85px !important;
+}
+
+.single-container .one_sixth #toggle_shortcode .toggle-content {
+	max-width:63px !important;
+}
+
+.single-container .two_third #toggle_shortcode .toggle-content {
+	max-width:375px !important;
+}
+
+.single-container .two_fourth #toggle_shortcode .toggle-content {
+	max-width:258px !important;
+}
+
+.single-container .three_fourth #toggle_shortcode .toggle-content {
+	max-width:425px !important;
+}
+
+.single-container .four_fifth #toggle_shortcode .toggle-content {
+	max-width:385px !important;
+}
+
+.single-container .two_fifth #toggle_shortcode .toggle-content {
+	max-width:210px !important;
+}
+
+.single-container .three_fifth #toggle_shortcode .toggle-content {
+	max-width:330px !important;
+}
+
+.single-container .two_sixth #toggle_shortcode .toggle-content {
+	max-width:170px !important;
+}
+
+.single-container .three_sixth #toggle_shortcode .toggle-content {
+	max-width:270px !important;
+}
+
+.single-container .four_sixth #toggle_shortcode .toggle-content {
+	max-width:370px !important;
+}
+
+.single-container .five_sixth #toggle_shortcode .toggle-content {
+	max-width:475px !important;
+}
+
+.portfolio-full-container #toggle_shortcode .toggle-content {
+	max-width:97.8% !important;
+}
+
+.content .text #toggle_shortcode h2 a {
+	font-family:'VegurRegular',Arial,sans-serif;
+	font-size:12px;
+	color:#333;
+	text-shadow:none;
+}
+

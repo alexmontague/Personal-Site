@@ -1,0 +1,303 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Briefcase v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-03-16 15:19+0200\n"
+"PO-Revision-Date: 2012-03-16 15:19+0200\n"
+"Last-Translator: Creative Dreams <rockablethemes@gmail.com>\n"
+"Language-Team: Rockable Themes <rockablethemes@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: esc_html_e;esc_html__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../archive.php:14
+msgid "Daily Archives:"
+msgstr ""
+
+#: ../archive.php:16
+msgid "Monthly Archives:"
+msgstr ""
+
+#: ../archive.php:18
+msgid "Yearly Archives:"
+msgstr ""
+
+#: ../archive.php:20
+msgid "Category:"
+msgstr ""
+
+#: ../archive.php:23
+msgid "Blog Archives"
+msgstr ""
+
+#: ../archive.php:43
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: ../archive.php:50
+msgid "By "
+msgstr ""
+
+#: ../archive.php:51
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../archive.php:53
+msgid "Published "
+msgstr ""
+
+#: ../archive.php:55
+msgid "Edit"
+msgstr ""
+
+#: ../archive.php:63
+msgid "Posted in "
+msgstr ""
+
+#: ../archive.php:65
+msgid "Tagged "
+msgstr ""
+
+#: ../archive.php:66
+#: ../template_blog.php:79
+#: ../template_blog.php:94
+msgid "Leave a comment"
+msgstr ""
+
+#: ../archive.php:66
+#: ../template_blog.php:79
+#: ../template_blog.php:94
+msgid "1 Comment"
+msgstr ""
+
+#: ../archive.php:66
+#: ../template_blog.php:79
+#: ../template_blog.php:94
+msgid "% Comments"
+msgstr ""
+
+#: ../archive.php:82
+#: ../index.php:44
+#: ../search.php:54
+#: ../template_blog.php:134
+#: ../template_blog.php:151
+msgid "&laquo; Previous"
+msgstr ""
+
+#: ../archive.php:83
+#: ../index.php:45
+#: ../search.php:55
+#: ../template_blog.php:135
+#: ../template_blog.php:152
+msgid "Next &raquo;"
+msgstr ""
+
+#: ../comments.php:8
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../comments.php:24
+msgid "No Comments"
+msgstr ""
+
+#: ../comments.php:24
+msgid "One Comment"
+msgstr ""
+
+#: ../comments.php:24
+msgid "Comments (%)"
+msgstr ""
+
+#: ../comments.php:35
+msgid "Trackbacks for this post"
+msgstr ""
+
+#: ../comments.php:58
+msgid "Comments are now closed for this article."
+msgstr ""
+
+#: ../comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:90
+msgid "Add Comment"
+msgstr ""
+
+#: ../comments.php:90
+#, php-format
+msgid "Leave a Comment to %s"
+msgstr ""
+
+#: ../comments.php:94
+msgid "Click here to cancel reply"
+msgstr ""
+
+#: ../comments.php:98
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a comment."
+msgstr ""
+
+#: ../comments.php:105
+#, php-format
+msgid "Logged in as %1$s. %2$sLog out &raquo;%3$s"
+msgstr ""
+
+#: ../comments.php:105
+msgid "Log out of this account"
+msgstr ""
+
+#: ../comments.php:111
+#: ../template_contacts.php:103
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:116
+#: ../template_contacts.php:112
+msgid "E-Mail"
+msgstr ""
+
+#: ../comments.php:121
+msgid "Website"
+msgstr ""
+
+#: ../comments.php:133
+msgid "Submit"
+msgstr ""
+
+#: ../footer.php:24
+msgid "&nbsp;latest works&nbsp;"
+msgstr ""
+
+#: ../footer.php:65
+msgid "Copyright &#169; 2012 Briefcase, Free Premium Theme. All Rights Reserved"
+msgstr ""
+
+#: ../page.php:29
+#: ../single-portfolio.php:42
+#: ../single.php:37
+msgid "Direct Link"
+msgstr ""
+
+#: ../search.php:10
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../search.php:29
+msgid "Published"
+msgstr ""
+
+#: ../search.php:37
+msgid "Nothing Found"
+msgstr ""
+
+#: ../search.php:39
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr ""
+
+#: ../template_blog.php:107
+#: ../template_blog.php:111
+msgid "More"
+msgstr ""
+
+#: ../template_contacts.php:75
+msgid "Thanks, your email was sent successfully."
+msgstr ""
+
+#: ../template_contacts.php:83
+msgid "Sorry, an error occured."
+msgstr ""
+
+#: ../template_contacts.php:98
+msgid "Contact Us"
+msgstr ""
+
+#: ../template_contacts.php:122
+msgid "Message"
+msgstr ""
+
+#: ../template_contacts.php:133
+msgid "Send Email"
+msgstr ""
+
+#: ../template_portfolio.php:23
+msgid "All"
+msgstr ""
+
+#: ../admin/panel-interface copy.php:142
+msgid "Options Updated"
+msgstr ""
+
+#: ../admin/panel-interface copy.php:145
+msgid "Options Reseted"
+msgstr ""
+
+#: ../admin/panel-interface copy.php:159
+msgid "Theme Name:"
+msgstr ""
+
+#: ../admin/panel-interface copy.php:159
+msgid "Theme Version:"
+msgstr ""
+
+#: ../admin/panel-interface copy.php:173
+msgid "Good day"
+msgstr ""
+
+#: ../admin/panel-interface copy.php:189
+msgid "Support Forum"
+msgstr ""
+
+#: ../admin/panel-interface copy.php:194
+msgid "Theme Docs"
+msgstr ""
+
+#: ../admin/panel-interface copy.php:199
+msgid "View Changelog"
+msgstr ""
+
+#: ../admin/panel-interface copy.php:204
+msgid "Earn with us"
+msgstr ""
+
+#: ../admin/panel-interface copy.php:238
+msgid "Procesing"
+msgstr ""
+
+#: ../includes/comments-content.php:23
+msgid "(Edit Comment)"
+msgstr ""
+
+#: ../includes/comments-content.php:30
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../includes/comments-content.php:36
+msgid "Reply"
+msgstr ""
+
+#: ../includes/panel.php:6
+msgid "About Me"
+msgstr ""
+
+#: ../includes/panel.php:10
+msgid "more"
+msgstr ""
+
+#: ../includes/panel.php:16
+msgid "Latest Works"
+msgstr ""
+
+#: ../includes/panel.php:23
+msgid "Contact"
+msgstr ""
+

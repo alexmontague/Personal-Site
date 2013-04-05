@@ -1,0 +1,87 @@
+.content-images div, .footer-left, .footer-center, .footer-right,
+.panel div, .gallery, .gallery ul li, fieldset .input-name, .input-email,
+.date-link div, .comments div, .blog .input-name div, .blog .input-email div,
+.blog .input-website div, .content-section div, .assessment div{
+	float:left;
+}
+
+.content-images a.more{
+	margin:-17px 261px 33px 0;
+}
+
+.panel hr{
+	margin-top:0;	
+}
+
+.panel h1 a {
+	position:relative;
+	top:-15px;
+	left:120px;
+	float:none;
+}
+
+.panel .panel-contacts h1 a{
+	left:160px;
+}
+
+.panel .panel-works h1 a{
+	left:195px;
+}
+
+.panel h1{
+	padding-bottom:0;
+	margin-bottom:0;
+	height:10px;
+}
+
+button.next{
+	right:-10px;	
+}
+
+.comments{
+	clear:both;
+}
+
+ .input-email{
+	clear:both;
+	overflow:hidden;
+	margin-bottom:25px;
+}
+
+hr{
+	color:#f2f2f2;	
+}
+
+.content hr{
+	color:#e0e0e0;
+}
+
+.menu ul li a span{
+	float:none;
+	position:absolute;
+	right:0;
+}
+
+.menu ul li a:hover span{
+	right:14px;
+}
+
+
+.menu ul li a{
+	position:relative;
+}
+
+.section-blog .date-link {
+   float:left;	
+}
+
+.section-blog .date-link a{
+	float:left;
+	display:block;
+}
+
+.form-textarea{
+	clear:both;
+	margin-top:-40px;
+}
+
